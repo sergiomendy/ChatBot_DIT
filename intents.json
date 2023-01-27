@@ -1,0 +1,215 @@
+{"intentions":[
+
+    {
+        "tag": "salutations",
+        "questions": [ "Bonjour", "Bonsoir", "Salut", "Comment vas-tu?", "Comment ça va?", "Comment allez-vous?"],
+        "reponses": ["Salut! Comment puis-je vous aider aujourd'hui?",
+        "Salut! En quoi puis-je vous aider?", "En quoi puis-je vous aider?"]
+    },
+    {
+        "tag": "infos_ecole",
+        "questions": ["Est-ce que l'école est reconnue par l'état?", "L'école est-elle accréditée par les autorités compétentes?","Est-ce que l'école est reconnue par le Ministère de l’Enseignement Supérieur", "êtes vous reconnue par l'état"],
+        "reponses": ["L'école est reconnue par le Ministère de l’Enseignement Supérieur, de la Recherche et de l’Innovation du Sénégal sous le numéro RepSEN/Ensup-priv/AP/376-2021.",
+        "L'école a obtenu sa reconnaissance officielle par le Ministère de l’Enseignement Supérieur, de la Recherche et de l’Innovation du Sénégal avec le numéro RepSEN/Ensup-priv/AP/376-2021.",
+        "Nous sommes fiers de vous annoncer que l'école est reconnue par le Ministère de l’Enseignement Supérieur, de la Recherche et de l’Innovation du Sénégal avec le numéro RepSEN/Ensup-priv/AP/376-2021."]
+    },
+    {
+        "tag": "infos_formations",
+        "questions": ["Quel genre de formations offrez-vous ?", "Pouvez-vous me dire quelles sont les formations proposées dans votre école ?", "Quels sont vos différentes types de formations?", "quels sont vos formations?"],
+        "reponses": ["DIT propose des formations de pointe dans les domaines de la science des données, du big data et de l'intelligence artificielle, telles que la formation Data Scientist Intensive, la Licence Informatique \"Big Data\", le Master \"Intelligence Artificielle\" ainsi que d'autres formations certifiantes pour développer les compétences clés et les opportunités professionnelles",
+        "DIT est le lieu idéal pour les étudiants souhaitant se spécialiser dans les domaines de la science des données, du big data et de l'intelligence artificielle, avec des formations telles que la Data Scientist Intensive, la Licence Informatique \"Big Data\", le Master \"Intelligence Artificielle\" ainsi que d'autres formations certifiantes pour développer les compétences clés et les opportunités professionnelles.",
+        "DIT propose plusieurs formations: \n - Licence Informatique \"Big Data\" \n - Data Scientist Intensive \n - Master \"Intelligence Artificielle\" \n - Autres formations certifiantes"
+    ]
+    },
+    {
+        "tag": "infos_licence",
+        "questions": ["Pouvez-vous m'en dire plus sur la licence?","Pourriez-vous me donner plus d'informations sur la licence?",
+        "Pourriez-vous me fournir des informations supplémentaires sur la licence Big Data?"   ,"Parlez moi plus de la licence" 
+    ],
+        "reponses": ["Cette Licence vous permet de devenir des développeurs confirmés dans les langages de programmation liés au traitement des grands volumes de données (Python, R, Scala). Vous apprenez aussi la collecte et l’analyse de données, ainsi que l’utilisation des outils statistiques. \n Après la Licence Informatique « Big Data » vous pourrez exercer en qualité de: \n- Développeur Web\n– Développeur d’applications\n– Business Analyst \n-Data Quality Manager\n-Statisticien\n-Dataminer\n-Administrateur de Bases de Données \n Pour plus d'informations vous pouvez télécharger la plaquette de la formation sur ce lien: https://dit.sn/wp-content/uploads/2021/06/Licence-Big-Data-DIT.pdf",
+        "En obtenant cette Licence, vous pourrez devenir des développeurs expérimentés dans les langages de programmation liés au traitement des données massives (Python, R, Scala) ainsi que dans la collecte et l'analyse de données, et l'utilisation des outils statistiques.\n Après la Licence Informatique « Big Data » vous pourrez exercer en qualité de: \n- Développeur Web\n– Développeur d’applications\n– Business Analyst \n-Data Quality Manager\n-Statisticien\n-Dataminer\n-Administrateur de Bases de Données \n Pour plus d'informations vous pouvez télécharger la plaquette de la formation sur ce lien: https://dit.sn/wp-content/uploads/2021/06/Licence-Big-Data-DIT.pdf",
+        "Cette Licence vous donne la possibilité de devenir des développeurs confirmés en Python, R et Scala, qui sont des langages utilisés pour traiter les données massives. Vous apprendrez également la collecte et l'analyse de données, ainsi que l'utilisation des outils statistiques.\n Après la Licence Informatique « Big Data » vous pourrez exercer en qualité de: \n- Développeur Web\n– Développeur d’applications\n– Business Analyst \n-Data Quality Manager\n-Statisticien\n-Dataminer\n-Administrateur de Bases de Données \n Pour plus d'informations vous pouvez télécharger la plaquette de la formation sur ce lien: https://dit.sn/wp-content/uploads/2021/06/Licence-Big-Data-DIT.pdf",
+        "Cette Licence est conçue pour vous permettre de devenir des développeurs expérimentés en utilisant des langages de programmation comme Python, R et Scala, qui sont liés au traitement des données massives. Vous apprendrez également la collecte et l'analyse de données, ainsi que l'utilisation des outils statistiques.\n Après la Licence Informatique « Big Data » vous pourrez exercer en qualité de: \n- Développeur Web\n– Développeur d’applications\n– Business Analyst \n-Data Quality Manager\n-Statisticien\n-Dataminer\n-Administrateur de Bases de Données \n Pour plus d'informations vous pouvez télécharger la plaquette de la formation sur ce lien: https://dit.sn/wp-content/uploads/2021/06/Licence-Big-Data-DIT.pdf"
+    ]
+    },
+    {
+        "tag": "programme_licence",
+        "questions": ["Quels sont les matières enseignées en licence?", "Quels sont les modules enseignées en licence?", "Quel est le programme de la licence","Es ce que je peux avoir le programme de la licence"],
+        "reponses": ["La licence se compose de modules d'apprentissage tels que: \n– Langage Python 3 (NumPy, SciPy, Pandas, MatPlotLib) \n– Bases de Données SQL et no-SQL (MySQL, Mango DB, etc.) \n– Système Unix/Linux \n– Outils mathématiques pour l’informatique \n– Algorithmique \n– Data Engineering / Data Collection / Data Visualisation \n– Data Warehouse \n– Sécurité des données (RGPD) \n– DevOps \n– Bases du Web : HTML, CSS, JavaScript, gestion d’un domaine et d’un hébergement. \n– Jeu d’entreprise \n– Anglais \n Pour plus de détails vous pouvez télécharger le programme détaillé de la licence sur ce lien: https://dit.sn/wp-content/uploads/2022/03/Programme-detaille-Licence-Informatique-Big-Data-DIT.pdf",
+        "La licence comprend l'apprentissage des concepts de Python 3, des bases de données SQL et no-SQL, des systèmes Unix/Linux, des outils mathématiques pour l'informatique, de l'algorithmique, de la data engineering, de la data collection, de la data visualisation, de la data warehouse, de la sécurité des données, de la DevOps, des bases du web, de jeux d'entreprise et de l'anglais. \nCette n'est pas exhaustive pour beaucaoup plus de détails vous pouvez télécharger le programme détaillé de la formation sur ce lien: https://dit.sn/wp-content/uploads/2022/03/Programme-detaille-Licence-Informatique-Big-Data-DIT.pdf",
+        "La licence se compose de modules d'apprentissage tels que Python 3, des bases de données SQL et no-SQL, des systèmes Unix/Linux, des outils mathématiques pour l'informatique, de l'algorithmique, de la data engineering, de la data collection, de la data visualisation, de la data warehouse, de la sécurité des données, de la DevOps, des bases du web, de jeux d'entreprise et de l'anglais.\n Pour beaucaoup plus de détails veillez télécharger le programme détaillé sur ce lien: https://dit.sn/wp-content/uploads/2022/03/Programme-detaille-Licence-Informatique-Big-Data-DIT.pdf"
+    ]
+    },
+    {
+        "tag": "cout_licence",
+        "questions": ["Quel est le coût d'inscription et les mensualités pour la licence?","Quels sont les modalités financières de la licence?","Combien coûte cette licence?","Quel est le coût total de la licence?","Quels sont les tarifs de la licence?"],
+        "reponses": ["Les frais d'inscription et les mensualités pour les trois niveaux de licence sont les suivants : \nLicence 1 - 200 000 FCFA (inscription) et 90 000 FCFA (mensualités sur 10 mois) ; \nLicence 2 - 250 000 FCFA (inscription) et 100 000 FCFA (mensualités sur 10 mois) ; \nLicence 3 - 300 000 FCFA (inscription) et 110 000 FCFA (mensualités sur 10 mois).",
+        "Les coûts d'inscription et les paiements mensuels pour les trois ans sont les suivants : \nL1- 200 000 FCFA (inscription) et 90 000 FCFA (mensualités sur 10 mois) ; \nL2- 250 000 FCFA (inscription) et 100 000 FCFA (mensualités sur 10 mois) ; \nL3- 300 000 FCFA (inscription) et 110 000 FCFA (mensualités sur 10 mois)",
+        "Coût de l'inscription et des mensualités pour les trois niveaux : \nLicence 1- 200 000 FCFA (inscription) et 90 000 FCFA (mensualités sur 10 mois) ; \nLicence 2- 250 000 FCFA (inscription) et 100 000 FCFA (mensualités sur 10 mois) ; \nLicence 3- 300 000 FCFA (inscription) et 110 000 FCFA (mensualités sur 10 mois)"
+    ]
+    },
+    {
+        "tag": "prerequis_licence",
+        "questions": ["Quels sont les prérequis pour postuler en licence?", "Quels sont les critères d'admission pour la licence?", "Peut-on avoir une liste des qualifications requises pour s'inscrire en licence?", "quels sont les conditions d'admissibilités pour la licence?"],
+        "reponses": ["Pour postuler en licence, il est nécessaire d'avoir obtenu un baccalauréat scientifique ou littéraire avec une moyenne en mathématiques.",
+        "La condition pour s'inscrire en licence est d'avoir obtenu un baccalauréat scientifique ou littéraire avec une moyenne en mathématiques.",
+        "Pour être admissible à cette licence, il est requis d'avoir obtenu un baccalauréat scientifique ou littéraire avec une moyenne en mathématiques.",
+        "Les prérequis pour suivre cette licence sont d'avoir obtenu un baccalauréat scientifique ou littéraire avec une moyenne en mathématiques."
+    ]
+    },
+    {
+        "tag": "horaire_licence",
+        "questions": [
+            "Quels sont les jours et les horaires pour les cours de la licence ?",
+            "Où se déroulent les cours de la licence ?",
+            "Est-ce que les cours de la licence se déroulent en présentiel ou en ligne ?",
+            "Est-ce que les cours de la licence se déroulent en journée ou en soirée ?",
+            "Quels sont les heures de cours de la licence",
+            "Quels sont les horaires pour la licence"
+        ],
+        "reponses": [
+            "La licence se suit en présentiel, dans nos locaux, du lundi au vendredi en journée.",
+            "Les cours de la licence sont organisés en présentiel dans nos locaux, du lundi au vendredi en journée.",
+            "La licence se déroule en journée, du lundi au vendredi, en présentiel dans nos locaux.",
+            "La licence est dispensée en présentiel dans nos locaux, du lundi au vendredi, en journée."
+        ]
+    },
+    {
+        "tag": "infos_master",
+        "questions": ["Pouvez-vous m'en dire plus sur le master ?", "Pourriez-vous me donner plus d'informations sur le master?",
+        "Pourriez-vous me fournir des informations supplémentaires sur le master Intelligence Artificielle ?", "Parlez moi plus du master Intelligence Artificielle" 
+    ],
+        "reponses": ["Notre master en Intelligence Artificielle, délivré uniquement en cours du soir et WE, en ligne ou en présentiel à Dakar, vous permettra de devenir expert dans ce domaine en seulement 2 ans. Au cours de la deuxième année, vous aurez le choix entre les spécialisations suivantes: Data Scientist, Data Ingénieur, Data Analyst, qui sont tous très recherchés sur le marché de l'emploi, tant en Afrique qu'à l'international.\n Pour plus d'informations veillez télécharger la plaquette sur ce lien: https://dit.sn/wp-content/uploads/2021/05/Master-IA-DIT.pdf",
+        "Ce master en IA, qui se déroule uniquement en cours du soir et WE, en ligne ou en présentiel à Dakar, vous permettra de devenir un expert dans les techniques d'IA en seulement 2 ans. Pendant la deuxième année, vous pourrez choisir parmi les spécialisations suivantes: Data Scientist, Data Ingénieur, Data Analyst, qui sont tous très recherchés sur le marché de l'emploi, tant en Afrique qu'à l'international.\n Pour plus d'informations veillez télécharger la plaquette sur ce lien: https://dit.sn/wp-content/uploads/2021/05/Master-IA-DIT.pdf",
+        "Notre master en IA est délivré uniquement en cours du soir et WE, en ligne ou en présentiel à Dakar, vous permettra de devenir expert en 2 ans. Au cours de la deuxième année, vous pourrez choisir parmi les spécialisations suivantes: Data Scientist, Data Ingénieur, Data Analyst, qui sont tous très recherchés sur le marché de l'emploi, tant en Afrique qu'à l'international.\n Pour plus d'informations veillez télécharger la plaquette sur ce lien: https://dit.sn/wp-content/uploads/2021/05/Master-IA-DIT.pdf",
+        "Notre master en Intelligence Artificielle, qui se déroule uniquement en cours du soir et WE, en ligne ou en présentiel à Dakar, vous permettra de devenir expert en 2 ans. Pendant la deuxième année, vous pourrez choisir parmi les spécialisations suivantes: Data Scientist, Data Ingénieur, Data Analyst, qui sont tous très recherchés sur le marché de l'emploi, tant en Afrique qu'à l'international.\n Pour plus d'informations veillez télécharger la plaquette sur ce lien: https://dit.sn/wp-content/uploads/2021/05/Master-IA-DIT.pdf"
+    ]
+    },
+    {
+        "tag": "cout_master",
+        "questions": ["Combien coûte e master intelligence artificielle?","Quels sont les modalités financières du master?", "Quel est le tarif du master ?", "Peut-on connaitre le coût du master ia?", "Le prix du master ia est de combien?"],
+        "reponses": ["Le coût d'inscription est de 300 000 FCFA, avec une mensualité de 150 000 FCFA sur 10 mois, pour un total de 1 800 000 FCFA par an. Les certifications éventuelles (TOEIC) et les voyages d'études (optionnels) ne sont pas inclus dans ce tarif. Pour les étudiants subventionnés par leur entreprise, le tarif est de 2 500 000 FCFA.",
+        "Le tarif pour l'inscription est de 300 000 FCFA, avec une mensualité de 150 000 FCFA sur 10 mois, pour un total de 1 800 000 FCFA par an. Les certifications éventuelles (TOEIC) et les voyages d'études (optionnels) ne sont pas inclus dans ce tarif. Pour les étudiants subventionnés par leur entreprise, le tarif est de 2 500 000 FCFA.",
+        "Le coût total pour l'inscription est de 300 000 FCFA, avec une mensualité de 150 000 FCFA sur 10 mois, pour un total de 1 800 000 FCFA par an. Les certifications éventuelles (TOEIC) et les voyages d'études (optionnels) ne sont pas inclus dans ce tarif. Pour les étudiants subventionnés par leur entreprise, le tarif est de 2 500 000 FCFA.",
+        "Le prix d'inscription est fixé à 300 000 FCFA, avec une mensualité de 150 000 FCFA sur 10 mois, pour un montant total de 1 800 000 FCFA par an. Les certifications éventuelles (TOEIC) et les voyages d'études (optionnels) ne sont pas inclus dans ce tarif. Pour les étudiants subventionnés par leur entreprise, le tarif est de 2 500 000 FCFA."
+    ]
+    },
+    {
+        "tag": "programme_master",
+        "questions": ["Quels sont les matières enseignées en master intelligence artificielle?", "Quels sont les modules enseignées en master ia?", "Quel est le programme du master","Es ce que je peux avoir les matières enseignées en master intelligence artificielle"],
+        "reponses": ["Les modules suivants font partie du programme de la formation: Langage Python pour la data science, Collecte et traitement de données, Analyse et visualisation des données, Protection des Données Personnelles, Bases en Statistiques, et Machine Learning supervisé... \nPour plus de détails sur le programme veillez télécharger le programme détaillé sur ce lien: https://dit.sn/wp-content/uploads/2021/09/Programme-Detaille-Master-IA-DIT.pdf",
+        "La formation comprend les modules suivants: Langage Python pour la data science, Collecte et traitement de données, Analyse et visualisation des données, Protection des Données Personnelles, et Bases en Statistiques, ainsi que Machine Learning supervisé...\nPour plus de détails sur le programme veillez télécharger le programme détaillé sur ce lien: https://dit.sn/wp-content/uploads/2021/09/Programme-Detaille-Master-IA-DIT.pdf",
+        "Le programme de la formation inclut les éléments suivants: Langage Python pour la data science, Collecte et traitement de données, Analyse et visualisation des données, Protection des Données Personnelles, Bases en Statistiques, et Machine Learning supervisé... \nPour plus de détails sur le programme veillez télécharger le programme détaillé sur ce lien: https://dit.sn/wp-content/uploads/2021/09/Programme-Detaille-Master-IA-DIT.pdf"
+    ]
+    },
+    {
+        "tag": "prerequis_master",
+        "questions": ["Quels sont les prérequis pour postuler en master?", "Quels sont les critères d'admission pour le master?", "Peut-on avoir une liste des qualifications requises pour s'inscrire en master?", "quels sont les conditions d'admissibilités pour le master?"],
+        "reponses": ["Il est nécessaire d'avoir des compétences solides en mathématiques et de l'expérience en programmation pour postuler. Le diplôme requis est une licence scientifique dans les domaines des mathématiques, de l'informatique, de la biologie, de la physique, etc.",
+        "Les compétences en mathématiques et l'expérience en programmation sont des prérequis pour postuler. Pour être éligible, il faut être titulaire d'une licence scientifique dans les domaines des mathématiques, de l'informatique, de la biologie, de la physique, etc.",
+        "Les aptitudes en mathématiques et l'expérience en programmation sont des critères importants pour postuler. Le diplôme exigé est une licence scientifique dans les domaines des mathématiques, de l'informatique, de la biologie, de la physique, etc.",
+        "Une bonne maîtrise des mathématiques et de l'expérience en programmation sont des atouts pour postuler. Le niveau de diplôme requis est une licence scientifique dans les domaines des mathématiques, de l'informatique, de la biologie, de la physique, etc."
+    ]
+    },
+    {
+        "tag": "horaire_master",
+        "questions": [
+            "Quels sont les jours et les horaires des cours pour le master ?",
+            "Est-ce que les cours du master se déroulent uniquement en présentiel ?",
+            "Y a-t-il des cours le samedi dans le master?",
+            "Y a-t-il des options pour suivre les cours en ligne ou uniquement en présentiel pour le master ?",
+            "Comment se déroule les cours pour le master",
+            "Quels sont les heures de cours pour le master",
+            "Quels sont les horaires pour le master"
+        ],
+        "reponses": ["Les cours du master ont lieu tous les jours de la semaine de 18h30 à 20h30, ainsi qu'un samedi par mois, soit en présentiel dans nos locaux à Dakar (Cité Keur Gorgui), soit en ligne via Zoom.",
+        "Les cours du master se tiennent du lundi au vendredi de 18h30 à 20h30, ainsi qu'un samedi par mois, soit en présentiel dans nos locaux à Dakar (Cité Keur Gorgui), soit en ligne via Zoom.",
+        "Les cours du master sont organisés du lundi au vendredi de 18h30 à 20h30, ainsi qu'un samedi par mois, soit en présentiel dans nos locaux à Dakar (Cité Keur Gorgui), soit en ligne via Zoom.",
+        "Les cours du master se déroulent du lundi au vendredi de 18h30 à 20h30, ainsi qu'un samedi par mois, soit en présentiel à Dakar (Cité Keur Gorgui), soit en ligne via Zoom."]
+    },
+    {
+        "tag": "infos_dsi",
+        "questions": ["Pouvez-vous m'en dire de la formations data science intensive ?", "Pourriez-vous me donner plus d'informations sur la formations data science intensive?",
+        "Pourriez-vous me fournir des informations supplémentaires sur la formations data science intensive ?", "Parlez moi plus de la formations data science intensive" 
+    ],
+        "reponses": ["La formation Data Science Intensive vous ouvre les portes des métiers de l’intelligence artificielle et vous enseigne l’ensemble des techniques avancées de data science et big data : programmation Python, collecte, traitement, gestion et visualisation de données, machine learning, NLP et chatBot, vision par ordinateur et deep learning.\nDébutants, développeurs, étudiants ou pro, les formations se déroulent sur des cycles de 12 à 24 semaines en journée ou en soirée.\nAvec cette formation certifiante intensive vous pourrez exercer dans des domaines variés tels que la finance, la médecine, les jeux vidéos et les domaines de l’intelligence artificielle en tant que Data Scientist ou Data Analyst. \nPour plus de détails sur le programme veillez télécharger la plaquette de la formation sur ce lien: https://dit.sn/wp-content/uploads/2021/09/Programme-Detaille-Master-IA-DIT.pdf",
+        "La formation Data Science Intensive vous donne accès aux métiers de l'IA en vous apprenant les techniques avancées de la data science et du big data: programmation en Python, collecte, traitement, gestion et visualisation de données, machine learning, NLP et chatBot, vision par ordinateur et deep learning. Elle est conçue pour les débutants, les développeurs, les étudiants et les professionnels, avec des cycles de 12 à 24 semaines, proposé en journée ou en soirée. \nPour plus de détails sur le programme veillez télécharger la plaquette de la formation sur ce lien: https://dit.sn/wp-content/uploads/2021/09/Programme-Detaille-Master-IA-DIT.pdf",
+        "La formation Data Science Intensive est conçue pour vous donner les compétences nécessaires pour travailler dans des domaines variés tels que la finance, la médecine, les jeux vidéos et l'IA en tant que Data Scientist ou Data Analyst. Elle vous enseigne les techniques avancées de la data science et du big data: programmation en Python, collecte, traitement, gestion et visualisation de données, machine learning, NLP et chatBot, vision par ordinateur et deep learning. Elle est adaptée aux débutants, les développeurs, les étudiants et les professionnels, avec des cycles de 12 à 24 semaines, proposé en journée ou en soirée. \nPour plus de détails sur le programme veillez télécharger la plaquette de la formation sur ce lien: https://dit.sn/wp-content/uploads/2021/09/Programme-Detaille-Master-IA-DIT.pdf"
+        
+    ]
+    },
+    {
+        "tag": "cout_dsi",
+        "questions": ["Combien coûte la formation data science intensive?", "Quels sont les modalités financières de la formation data science intensive?","Quel est le tarif de la formation data science intensive?", "Peut-on connaitre le coût de la formation data science intensive?", "Le prix de la formation data science intensive est de combien?"],
+        "reponses": ["Le prix de la formation s'élève à 1 200 000 FCFA", "Le coût de la formation est de 1 200 000 FCFA", "Le tarif de la formation est fixé à 1 200 000 FCFA", "Le montant de la formation est de 1 200 000 FCFA"]
+    },
+    {
+        "tag": "programme_dsi",
+        "questions": ["Quels sont les matières enseignées dans la formations data science intensive?", "Quels sont les modules enseignées dans la formations data science intensive?", "Quel est le programme de la la formations data science intensive","Es ce que je peux avoir le programme de la la formations data science intensive"],
+        "reponses": ["Les modules suivants font partie du programme de la formation: Langage Python pour la data science, Collecte et traitement de données, Analyse et visualisation des données, Protection des Données Personnelles, Bases en Statistiques, et Machine Learning supervisé... \nPour plus de détails sur le programme veillez télécharger la plaquette de la formation sur ce lien: https://dit.sn/wp-content/uploads/2021/09/Programme-Detaille-Master-IA-DIT.pdf",
+        "La formation comprend les modules suivants: Langage Python pour la data science, Collecte et traitement de données, Analyse et visualisation des données, Protection des Données Personnelles, et Bases en Statistiques, ainsi que Machine Learning supervisé...\nPour plus de détails sur le programme veillez télécharger la plaquette de la formation sur ce lien: https://dit.sn/wp-content/uploads/2021/09/Programme-Detaille-Master-IA-DIT.pdf",
+        "Le programme de la formation inclut les éléments suivants: Langage Python pour la data science, Collecte et traitement de données, Analyse et visualisation des données, Protection des Données Personnelles, Bases en Statistiques, et Machine Learning supervisé... \nPour plus de détails sur le programme veillez télécharger la plaquette de la formation sur ce lien: https://dit.sn/wp-content/uploads/2021/09/Programme-Detaille-Master-IA-DIT.pdf"
+    ]
+    },
+    {
+        "tag": "horaire_dsi",
+        "questions": [
+            "Quels sont les jours et les horaires des cours pour la formation data science intensive ?",
+            "Comment se déroule les cours pour la formation data science intensive",
+            "Quels sont les heures de cours pour la formation data science intensive",
+            "Quels sont les horaires pour la formation data science intensive",
+            "Quels sont les horaires et les jours de la formation data science intensive en cours du soir ?",
+            "Où se déroule la formation data science intensive en cours du jour ?",
+            "Quels sont les horaires et les jours de la formation data science intensive en cours du jour ?",
+            "Comment se déroule la formation data science intensive en cours du soir ?"
+        ],
+        "reponses": [
+            "Notre formation en cours du soir se déroule du lundi au vendredi de 18h30 à 20h30 GMT et tous les samedis alternatifs de 9h à 14h en ligne via ZOOM. Pour la formation en cours du jour, les cours sont du lundi au vendredi de 9h à 17h en présentiel à Dakar.",
+            "La formation en cours du soir est organisée du lundi au vendredi de 18h30 à 20h30 GMT et tous les samedis alternatifs de 9h à 14h en ligne via ZOOM. Pour la formation en cours du jour, les cours ont lieu du lundi au vendredi de 9h à 17h en présentiel à Dakar.",
+            "Notre formation en cours du soir se déroule du lundi au vendredi de 18h30 à 20h30 GMT et tous les samedis alternatifs de 9h à 14h en ligne via ZOOM, tandis que la formation en cours du jour est organisée du lundi au vendredi de 9h à 17h en présentiel à Dakar.",
+            "La formation en cours du soir est organisée du lundi au vendredi de 18h30 à 20h30 GMT et tous les samedis alternatifs de 9h à 14h en ligne via ZOOM, tandis que la formation en cours du jour a lieu du lundi au vendredi de 9h à 17h en présentiel à Dakar."
+        ]
+    },
+    {
+        "tag": "prerequis_dsi",
+        "questions": ["Quels sont les prérequis pour postuler à la formation data science intensive?", "Quels sont les critères d'admission pour la formation data science intensive?", "Peut-on avoir une liste des qualifications requises pour s'inscrire à la formation data science intensive?", "quels sont les conditions d'admissibilités pour la formation data science intensive?"],
+        "reponses": ["Il n'y a pas de diplôme requis pour suivre cette formation, mais une solide connaissance en mathématiques et un intérêt pour l'informatique et les sciences et technologies sont fortement recommandés.",
+        "Cette formation est ouverte à tous, mais une solide base en mathématiques et un intérêt pour l'informatique et les sciences et technologies sont un atout.",
+        "Il n'est pas nécessaire d'avoir un diplôme pour s'inscrire à cette formation, mais une connaissance solide en mathématiques et un intérêt pour l'informatique et les sciences et technologies sont souhaitables.",
+        "Cette formation ne nécessite pas de diplôme, mais une bonne compréhension des mathématiques et une passion pour l'informatique et les sciences et technologies sont un plus.",
+        "Aucun diplôme n’est requis pour suivre cette formation. Cependant, une base en mathématiques et une appétence pour l’informatique et les sciences et technologies sont encouragées."
+    ]
+    },
+    {
+        "tag": "bourse",
+        "questions": ["Avez-vous des bourses d'études disponibles pour les étudiants qui suivent une formation chez vous ?",
+    "Est il possible d'obtenir une bourse d'étude",
+    "Est-ce que l'école offre des bourses d'études pour les étudiants?",
+    "Y a-t-il des options de financement, comme des bourses d'études, disponibles pour les étudiants de l'école?",
+    "Quels types de bourses d'études sont offerts par l'école pour les étudiants?"],
+        "reponses": ["Il n'y a pas de bourses disponibles pour le moment.",
+        "Actuellement, nous ne proposons pas de bourses pour nos étudiants.",
+        "Malheureusement, nous ne proposons pas de bourse pour le moment.",
+        "A l'heure actuelle, nous n'avons pas de bourse disponible.",
+        "Malheureusement nous n’avons pas encore de système de bourse à ce stade"
+    ]
+    },
+    {
+        "tag": "localisation",
+        "questions": ["Où se trouve l'école?", "Où se trouve vos locaux?","Pouvez-vous me donner l'adresse de l'école?", "Comment puis-je arriver à l'école?",
+        "Dans quelle ville se situe l'école?", "À quelle adresse se trouve l'école?"],
+        "reponses": ["L'emplacement de notre institut est à Cité Keur Gorgui, Dakar, Sénégal.",
+        "Notre institut est situé dans le quartier de Cité Keur Gorgui à Dakar, Sénégal.",
+        "Si vous cherchez notre institut, il est situé dans la ville de Dakar, plus précisément à Cité Keur Gorgui.",
+        "Vous pouvez trouver notre institut à Cité Keur Gorgui, Dakar."]
+    },
+    {
+        "tag": "contacts",
+        "questions": ["Comment puis-je vous contacter?", "Quel est votre adresse mail", "Quel est votre numéro de téléphone", "Quels sont vos contacts", "Comment vous contacter", "Comment puis-je vous joindre?"],
+        "reponses": ["Vous pouvez nous contacter par téléphone (+221 77 308 92 92) ou par mail (info@dit.sn)",
+        "Vous pouvez nous joindre à info@dit.sn ou au +221 77 308 92 92 pour toute question ou demande.",
+        "Vous pouvez nous contacter à l'adresse e-mail info@dit.sn ou par téléphone +221 77 308 92 92"]
+    }
+
+]
+}
